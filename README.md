@@ -1,3 +1,4 @@
 # My_AltSchool_Project
-My first project at AltSchool
-the project was tested me real bad
+
+My first project at AltSchool.
+The project has helped me to learn a lot in my quest to become a software engineer.
